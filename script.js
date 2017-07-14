@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         Bittrex tweak
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       leathan
 // @match        https://bittrex.com/*
 // @grant        none
 // ==/UserScript==
