@@ -1,5 +1,6 @@
 # Bittrex-Tweaks
 Tweak the bittrex UI to reflex price movements.
+![Image of coloring](https://preview.ibb.co/kHYMX5/Screen_Shot_2017_07_19_at_3_23_06_PM.png)
 
 # Installation and Execution
 
