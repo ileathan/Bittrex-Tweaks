@@ -9,8 +9,6 @@
 // ==/UserScript==
 (function() {
  
-//IF YOU ARE GOING TO PASTE THIS SCRIPT INTO THE CONSOLE START COPYING HERE.
- 
 var matches = false; var oldmatches; var table = {};
 setInterval(function() {
 $('.menu-table').children().each(function(i) {
@@ -30,8 +28,5 @@ $('.menu-table').children().each(function(i) {
         } catch(e) {}
 });
 }, 700);
- 
-//IF YOU ARE GOING TO PASTE THIS SCRIPT INTO THE CONSOLE STOP COPYING HERE.
-//FOR HELP ASK LEATHAN
  
 })();
